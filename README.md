@@ -281,11 +281,6 @@ const config = {
 
 ---
 
-## License & Legal
-
-### Open Source License
-This project is licensed under the MIT License. We encourage contributions and welcome community involvement while maintaining clear attribution and usage guidelines.
-
 ### Academic Use
 Educational institutions may use this system for teaching, research, and non-commercial purposes. Please cite the system in academic publications and contact us for special academic licensing arrangements.
 
