@@ -1,0 +1,6 @@
+{
+  "name": "LIFTTWIN - AI Digital Twin for College Elevator Optimization",
+  "description": "Interactive 3D digital twin of a 12-floor college building for real-time elevator dispatch optimization, crowd congestion prediction, and wait-time reduction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
